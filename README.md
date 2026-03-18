@@ -1,6 +1,6 @@
 # 🕸️ Wikitolica Knowledge Graph
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19091542.svg)](https://doi.org/10.5281/zenodo.19091542)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19091541.svg)](https://doi.org/10.5281/zenodo.19091541)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Este repositorio gestiona los metadatos y la preservación digital del **Knowledge Graph** de la [Enciclopedia Católica Wikitólica](https://www.wikitolica.com/). Para garantizar la frescura de los datos, el dataset principal se sirve de forma dinámica desde nuestra infraestructura oficial.
