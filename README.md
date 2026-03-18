@@ -18,7 +18,7 @@ Puedes integrar el grafo en tus proyectos utilizando librerías de Web Semántic
 import rdflib
 
 g = rdflib.Graph()
-g.parse("[https://www.wikitolica.com/knowledge-graph.jsonld](https://www.wikitolica.com/knowledge-graph.jsonld)", format="json-ld")
+g.parse("https://www.wikitolica.com/knowledge-graph.jsonld", format="json-ld")
 print(f"Grafo cargado exitosamente con {len(g)} tripletas.")
 ```
 ## ©️ Licencia de Uso
