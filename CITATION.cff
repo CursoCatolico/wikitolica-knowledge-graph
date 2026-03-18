@@ -21,3 +21,12 @@ abstract: >-
   Este repositorio contiene los metadatos y la estructura de acceso para el 
   Knowledge Graph de la Enciclopedia Católica Wikitolica. Los datos están 
   distribuidos en formato JSON-LD.
+preferred-citation:
+  type: dataset
+  authors:
+    - name: "Wikitolica"
+  title: "Enciclopedia Católica Wikitolica: Open Data Knowledge Graph"
+  year: 2026
+  url: "https://www.wikitolica.com/"
+  publisher:
+    name: "Wikitolica"
