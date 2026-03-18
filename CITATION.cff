@@ -5,6 +5,7 @@ authors:
     website: "https://www.wikitolica.com"
 title: "Enciclopedia Católica Wikitólica: Open Data Knowledge Graph"
 version: 1.0.0
+doi: 10.5281/zenodo.19091542
 date-released: 2026-03-16
 url: "https://www.wikitolica.com/d/datos-abiertos/"
 repository-code: "https://github.com/CursoCatolico/wikitolica-knowledge-graph"
