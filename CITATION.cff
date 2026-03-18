@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si utilizas este Knowledge Graph en tu investigación o software, por favor cítalo utilizando los siguientes metadatos."
+authors:
+  - name: "Wikitolica"
+    website: "https://www.wikitolica.com"
+title: "Enciclopedia Católica Wikitolica: Open Data Knowledge Graph"
+version: 1.0.0
+date-released: 2026-03-16
+url: "https://www.wikitolica.com/d/datos-abiertos/"
+repository-code: "https://github.com/CursoCatolico/wikitolica-knowledge-graph"
+keywords:
+  - knowledge-graph
+  - linked-data
+  - semantic-web
+  - json-ld
+  - wikitolica
+  - open-data
+  - catholic encyclopedia
+license: CC-BY-SA-4.0
+abstract: >-
+  Este repositorio contiene los metadatos y la estructura de acceso para el 
+  Knowledge Graph de la Enciclopedia Católica Wikitolica. Los datos están 
+  distribuidos en formato JSON-LD.
