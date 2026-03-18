@@ -2,7 +2,7 @@
   "title": "Enciclopedia Católica Wikitolica: Open Data Knowledge Graph",
   "upload_type": "dataset",
   "language": "spa",
-  "doi": "10.5281/zenodo.19091542",
+  "doi": "10.5281/zenodo.19091541",
   "description": "Grafo de conocimiento de Wikitolica estructurado en formato JSON-LD. Este registro actúa como puente persistente de metadatos y proporciona la citación académica (DOI). El dataset dinámico se aloja y mantiene externamente en la infraestructura oficial de la Enciclopedia Católica Wikitolica.",
   "creators": [
     {
