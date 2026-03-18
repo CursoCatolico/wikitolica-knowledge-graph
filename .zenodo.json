@@ -29,7 +29,7 @@
     {
       "identifier": "https://www.wikitolica.com/d/datos-abiertos/",
       "relation": "isDocumentedBy",
-      "resource_type": "publication-webpage"
+      "resource_type": "publication"
     }
   ]
 }
