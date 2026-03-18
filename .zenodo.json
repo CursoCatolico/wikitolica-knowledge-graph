@@ -31,7 +31,7 @@
       "identifier": "https://www.wikitolica.com/d/datos-abiertos/",
       "relation": "isDocumentedBy",
       "resource_type": "publication"
-    }
+    },
     {
       "identifier": "https://www.wikitolica.com/",
       "relation": "IsPartOf",
