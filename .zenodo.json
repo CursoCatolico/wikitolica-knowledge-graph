@@ -1,0 +1,35 @@
+{
+  "title": "Enciclopedia Católica Wikitolica: Open Data Knowledge Graph",
+  "upload_type": "dataset",
+  "language": "spa",
+  "description": "Grafo de conocimiento de Wikitolica estructurado en formato JSON-LD. Este registro actúa como puente persistente de metadatos y proporciona la citación académica (DOI). El dataset dinámico se aloja y mantiene externamente en la infraestructura oficial de Wikitolica.",
+  "creators": [
+    {
+      "name": "Wikitolica",
+      "affiliation": "Wikitolica Open Data Initiative"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "Knowledge Graph",
+    "JSON-LD",
+    "Linked Data",
+    "Wikitolica",
+    "Semantic Web",
+    "Open Data",
+    "Catholic Encyclopedia"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.wikitolica.com/knowledge-graph.jsonld",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.wikitolica.com/d/datos-abiertos/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-webpage"
+    }
+  ]
+}
