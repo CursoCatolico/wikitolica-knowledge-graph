@@ -35,7 +35,7 @@
     {
       "identifier": "https://www.wikitolica.com/",
       "relation": "IsPartOf",
-      "resource_type": "project"
+      "resource_type": "software"
     }
   ]
 }
