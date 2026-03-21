@@ -10,6 +10,7 @@ Los datos están disponibles en los siguientes puntos de enlace:
 
 - **Dataset Principal (JSON-LD):** [https://www.wikitolica.com/knowledge-graph.jsonld](https://www.wikitolica.com/knowledge-graph.jsonld)
 - **Portal de Datos Abiertos:** [https://www.wikitolica.com/d/datos-abiertos/](https://www.wikitolica.com/d/datos-abiertos/)
+- **Visualizador Online:** [https://www.wikitolica.com/visualizador/](https://www.wikitolica.com/visualizador/)
 
 ## 🚀 Cómo consumir los datos
 Puedes integrar el grafo en tus proyectos utilizando librerías de Web Semántica como `rdflib` (Python) o `jsonld.js` (JavaScript):
