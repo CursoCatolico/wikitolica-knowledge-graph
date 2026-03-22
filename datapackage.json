@@ -1,11 +1,12 @@
 {
     "name": "wikitolica-knowledge-graph",
+    "id": "https://www.wikitolica.com/d/datos-abiertos/#dataset",
     "title": "Enciclopedia Católica Wikitolica: Open Data Knowledge Graph",
     "description": "Grafo de conocimiento de Wikitolica estructurado en formato JSON-LD. Este registro actúa como puente persistente de metadatos y proporciona la citación académica (DOI). El dataset dinámico se aloja y mantiene externamente en la infraestructura oficial de la Enciclopedia Católica Wikitolica.",
-    "homepage": "https://www.wikitolica.com",
-    "version": "1.0.0",
+    "homepage": "https://www.wikitolica.com/",
+    "version": "1.0.1",
     "created": "2026-03-10",
-    "image": "https://www.wikitolica.com/favicon-512.png",
+    "image": "https://www.wikitolica.com/img/s/sharedata-1920x1080.webp",
     "keywords": [
         "Knowledge Graph",
         "JSON-LD",
@@ -25,33 +26,63 @@
     "contributors": [
         {
             "title": "Wikitólica",
-            "role": "author"
+            "path": "http://www.wikitolica.com/",
+            "roles": [
+                "creator"
+            ]
         }
     ],
     "profile": "data-package",
     "sources": [
         {
-            "title": "Wikidata Q138600930",
-            "path": "https://www.wikidata.org/wiki/Q138600930"
-        },
-        {
             "title": "Wikitólica Datos Abiertos",
             "path": "https://www.wikitolica.com/d/datos-abiertos/"
+        },
+        {
+            "title": "DOI en Zenodo (principal)",
+            "path": "https://doi.org/10.5281/zenodo.19091541"
+        },
+        {
+            "title": "DOI en OSF",
+            "path": "https://doi.org/10.17605/OSF.IO/ZNU9G"
+        },
+        {
+            "title": "DOI en Figshare",
+            "path": "https://doi.org/10.6084/m9.figshare.31828546"
+        },
+        {
+            "title": "DOI en Hugging Face",
+            "path": "https://doi.org/10.57967/hf/8100"
         }
     ],
     "resources": [
         {
+            "title": "Grafo de conocimiento de Wikitólica",
             "name": "knowledge-graph",
             "path": "https://www.wikitolica.com/knowledge-graph.jsonld",
-            "format": "json",
+            "format": "jsonld",
             "mediatype": "application/ld+json",
+            "encoding": "utf-8",
             "description": "Grafo de conocimiento completo de Wikitólica en formato JSON-LD."
         }
     ],
     "identifiers": [
         {
             "type": "doi",
-            "identifier": "10.5281/zenodo.19091541"
+            "identifier": "10.5281/zenodo.19091541",
+            "primary": true
+        },
+        {
+            "type": "doi",
+            "identifier": "10.17605/OSF.IO/ZNU9G"
+        },
+        {
+            "type": "doi",
+            "identifier": "10.6084/m9.figshare.31828546"
+        },
+        {
+            "type": "doi",
+            "identifier": "10.57967/hf/8100"
         }
     ]
 }
