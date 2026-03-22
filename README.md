@@ -22,6 +22,7 @@ g = rdflib.Graph()
 g.parse("https://www.wikitolica.com/knowledge-graph.jsonld", format="json-ld")
 print(f"Grafo cargado exitosamente con {len(g)} tripletas.")
 ```
+
 ## ©️ Licencia de Uso
 Este conjunto de datos se distribuye bajo la licencia [Creative Commons Atribución-ShareAlike 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) Usted es libre de compartir y adaptar el material para cualquier propósito, incluso comercial, siempre que otorgue el crédito correspondiente a Wikitólica y sus correspondientes artículos.
 
