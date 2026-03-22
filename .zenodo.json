@@ -33,8 +33,13 @@
       "resource_type": "publication"
     },
     {
+      "identifier": "https://www.wikitolica.com/visualizador/",
+      "relation": "isDocumentedBy",
+      "resource_type": "software"
+    },
+    {
       "identifier": "https://www.wikitolica.com/",
-      "relation": "IsPartOf",
+      "relation": "isPartOf",
       "resource_type": "software"
     }
   ]
