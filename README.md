@@ -16,11 +16,18 @@ Los datos están disponibles en los siguientes puntos de enlace:
 Puedes integrar el grafo en tus proyectos utilizando librerías de Web Semántica como `rdflib` (Python) o `jsonld.js` (JavaScript):
 
 ```python
-import rdflib
+# You need to open the console and install requests and pyld using:
+# pip install requests
+# pip install pyld
 
-g = rdflib.Graph()
-g.parse("https://www.wikitolica.com/knowledge-graph.jsonld", format="json-ld")
-print(f"Grafo cargado exitosamente con {len(g)} tripletas.")
+from pyld import jsonld
+import requests
+
+url = "https://www.wikitolica.com/knowledge-graph.jsonld"
+doc = requests.get(url).json()
+
+expanded = jsonld.expand(doc)
+print(f"Documento expandido con {len(expanded)} nodos.")
 ```
 
 ## ©️ Licencia de Uso
