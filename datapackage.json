@@ -53,6 +53,10 @@
         {
             "title": "DOI en Hugging Face",
             "path": "https://doi.org/10.57967/hf/8100"
+        },
+        {
+            "title": "DOI en Kaggle",
+            "path": "https://doi.org/10.34740/kaggle/ds/9805918"
         }
     ],
     "resources": [
@@ -83,6 +87,10 @@
         {
             "type": "doi",
             "identifier": "10.57967/hf/8100"
+        },
+        {
+            "type": "doi",
+            "identifier": "10.34740/kaggle/ds/9805918"
         }
     ]
 }
