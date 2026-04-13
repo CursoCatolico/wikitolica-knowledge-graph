@@ -35,3 +35,7 @@ Este conjunto de datos se distribuye bajo la licencia [Creative Commons Atribuci
 
 ## ⚠️ Exención de Responsabilidad
 El contenido de este Grafo de Conocimiento se ofrece "tal cual", sin garantías de ningún tipo respecto a su exactitud, integridad o actualidad. Wikitolica es un proyecto independiente y los datos aquí presentados tienen carácter puramente informativo, histórico y cultural. El uso de estos datos para fines teológicos, académicos o comerciales es responsabilidad exclusiva del usuario. Wikitolica se reserva el derecho de modificar o retirar datos sin previo aviso. Al usarlos acepta explícitamente nuestro [aviso legal](https://www.wikitolica.com/a/aviso-legal/).
+
+<p align="center">
+  Un proyecto de <a href="https://www.wikitolica.com"><strong>Wikitólica</strong></a> — La Enciclopedia Católica en español
+</p>
